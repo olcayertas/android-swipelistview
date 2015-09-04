@@ -3,7 +3,7 @@
 I have forked ([SwipeListView][1]) project to add RecyleView support and enhance it further.
 I have renamed it as SwipeRecyleView.
 
-SwipeListView ([Play Store Demo][1])
+SwipeRecyleView
 =============
 
 An Android Recyle View implementation with support for drawable cells and many other swipe related features.
