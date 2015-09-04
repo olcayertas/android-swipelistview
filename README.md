@@ -1,13 +1,12 @@
 [![Build Status][12]][13]
 
-THIS PROJECT IS DISCONTINUED — USE AT YOUR OWN RISK
-
-It has been a fun and great project but it's time for us to move on. Check out our recent work that we are doing with Scala on Android. http://47deg.github.io/translate-bubble-android/ and follow us on Github and Twitter for new and exciting open source projects. Thanks for your continuing support. If you wish to take on maintenance of this library please contact us through the issue tracker.
+I have forked ([SwipeListView][1]) project to add RecyleView support and enhance it further.
+I have renamed it as SwipeRecyleView.
 
 SwipeListView ([Play Store Demo][1])
 =============
 
-An Android List View implementation with support for drawable cells and many other swipe related features.
+An Android Recyle View implementation with support for drawable cells and many other swipe related features.
 
 We are actively seeking help from People that want to contribute to this OS project. Please open an issue indicating you want to help out. Thanks!
 
@@ -121,3 +120,4 @@ limitations under the License.
 [11]: http://clinkerhq.com
 [12]: https://clinker.47deg.com/desktop/plugin/public/status/android-swipelistview
 [13]: https://clinker.47deg.com/jenkins/job/android-swipelistview/
+[14]: https://github.com/47deg/android-swipelistview
